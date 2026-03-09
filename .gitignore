@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.db
+*.log
+data/processed/
+data/versions/
+experiments/
+reports/
+.env
+.DS_Store
