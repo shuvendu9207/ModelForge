@@ -7,6 +7,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
+🌐 **Dashboard:** https://modelforge-shuvendu.streamlit.app  
+
 A self-hosted ML platform — raw CSV to tracked, versioned, comparable models in one command.
 
 </div>
@@ -97,4 +99,5 @@ preprocessing:
 Built with ⚗️ by the ModelForge team · <a href="https://github.com/yourusername/ModelForge/issues">Report an Issue</a>
 
 </div>
+
 
