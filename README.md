@@ -4,7 +4,6 @@
 ### *Stop managing files. Start building models.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
@@ -105,4 +104,5 @@ preprocessing:
 
 <div align="center">
 Built with ⚗️ by the ModelForge team · <a href="https://github.com/yourusername/ModelForge/issues">Report an Issue</a>
+
 </div>
