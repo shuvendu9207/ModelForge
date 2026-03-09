@@ -78,15 +78,6 @@ modelforge/
 
 ---
 
-## 🧪 Tests & API
-
-```bash
-py -m pytest tests/ -v
-uvicorn src.api.main:app --reload
-```
-
----
-
 ## ⚙️ Configuration
 
 ```yaml
@@ -106,3 +97,4 @@ preprocessing:
 Built with ⚗️ by the ModelForge team · <a href="https://github.com/yourusername/ModelForge/issues">Report an Issue</a>
 
 </div>
+
